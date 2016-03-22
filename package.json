@@ -9,9 +9,9 @@
   "author": "Ugo",
   "license": "ISC",
   "devDependencies": {
-    "babel-cli": "^6.6.5"
+    "babel-cli": "latest"
   },
   "dependencies": {
-    "seneca": "^1.4.0"
+    "seneca": "latest"
   }
 }
