@@ -1,0 +1,17 @@
+{
+  "name": "reactive-demo",
+  "version": "1.0.0",
+  "description": "Demo app with RxJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ugo",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.6.5"
+  },
+  "dependencies": {
+    "seneca": "^1.4.0"
+  }
+}
