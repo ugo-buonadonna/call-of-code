@@ -9,9 +9,11 @@
   "author": "Ugo",
   "license": "ISC",
   "devDependencies": {
-    "babel-cli": "latest"
+    "babel-cli": "latest",
+    "tslint-eslint-rules": "^1.1.1"
   },
   "dependencies": {
+    "rxjs-es": "^5.0.0-beta.3",
     "seneca": "latest"
   }
 }
